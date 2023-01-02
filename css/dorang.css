@@ -11508,7 +11508,8 @@ a:hover {
   height: 100%;
   min-height: 600px;
   text-align: center;
-  color: #fff; 
+  color: #fff;
+  background-image: url(img/header.jpg);
   background-size: cover;
   background-position: center;
   -webkit-transition: .2s;
@@ -11651,6 +11652,7 @@ body {
   position: relative;
   text-align: center;
   color: #fff; 
+  background-image: url(img/footer.jpg);
   background-size: cover;
   background-position: bottom;
 }
@@ -11709,6 +11711,7 @@ body.light-theme .theme-selector .spinner i {
 }
 
 body.light-theme .header {
+  background-image: url(img/header-light.jpg);
 }
 
 body.light-theme .header .overlay {
