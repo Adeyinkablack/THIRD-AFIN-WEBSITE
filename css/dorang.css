@@ -11509,7 +11509,7 @@ a:hover {
   min-height: 600px;
   text-align: center;
   color: #fff;
-  background-image: url(css/dorang.css/img/Head.jpeg);
+  background-image: img src "img/Head.jpeg";
   background-size: cover;
   background-position: center;
   -webkit-transition: .2s;
